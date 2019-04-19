@@ -21,7 +21,7 @@
 无论如何，你要从这里开始。正如我之前所说，你可以根据自己的兴趣选择下面的前端路径或后端路径。无论如何，那些黄色的建议是你必须学习的，这是每个程序员都应该知道的。
 
 
-![https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+![https://github.com/kamranahmedse/developer-roadmap](./images/intro.png)
 
 https://github.com/kamranahmedse/developer-roadmap
 
@@ -59,7 +59,7 @@ HTTP 协议是 Web 的基础，对于 Web 开发人员来说，必须熟悉 HTTP
 
 如果你想在 2019 年成为前端开发者，那么你应该遵循下面的前端开发路线图。你应该把注意力集中在黄色的方框上，这些方框是你需要学习和关注的最重要的内容。
 
-![https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png)
+![https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png](./images/frontend.png)
 
 https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png
 
@@ -111,7 +111,7 @@ Vue 或 Vue JS 在去年真的加快了步伐，越来越多的人推荐和使�
 
 如果你想在 2019 年成为后端开发人员，那么你可以遵循这个后端开发路线图。同样，你可以从黄色框开始学习那些你需要重点掌握的关键技术。
 
-![https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png)
+![https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png](./images/backend.png)
 
 https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png
 
